@@ -4,4 +4,4 @@ __pycache__/
 prepare_test.py
 grades.json
 *.log
-任务描述.txt
+*.txt
